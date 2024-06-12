@@ -16,11 +16,6 @@ python-openstackclient, openstacksdk, swift object sotrage 레포지토리에 �
 https://review.opendev.org/q/owner:+rladntjr4@gmail.com
 
 
-### Stack
----
-<img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=c&logoColor=61DAFB" />
-
 ### 백준
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eypk5683)](https://solved.ac/eypk5683/)
