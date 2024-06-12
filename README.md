@@ -1,4 +1,9 @@
-## Hi there 👋
+## Kim Woo Seok 👋
+### Education
+---
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eypk5683)](https://solved.ac/eypk5683/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimwoo123&langs_count=8)](https://github.com/kimwoo123/github-readme-stats)
 
 <!--
 **kimwoo123/kimwoo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
