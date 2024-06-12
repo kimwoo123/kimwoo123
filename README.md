@@ -9,6 +9,9 @@
 
 ### OpenStack 기여 활동
 ---
+오픈소스 소프트웨어 아카데미 OpenStack팀 멘티로 활동하며
+python-openstackclient, openstacksdk, swift object sotrage 레포지토리에 기여하였습니다.
+REST API 개발 및 테스트 코드 작성
 https://review.opendev.org/q/owner:+rladntjr4@gmail.com
 
 ### 백준
